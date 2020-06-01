@@ -1,0 +1,11 @@
+{
+  "name": "shopkeeper",
+  "version": "1.0.0",
+  "description": "fake data",
+  "main": "app.js",
+  "scripts": {
+    "test": "deep"
+  },
+  "author": "deepak",
+  "license": "ISC"
+}

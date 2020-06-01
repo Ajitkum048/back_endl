@@ -1,0 +1,24 @@
+{
+  "name": "jokes",
+  "version": "1.0.0",
+  "description": "jokes",
+  "main": "app.js",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.17.1",
+    "knock-knock-jokes": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "deep"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deepkr"
+  },
+  "keywords": [
+    "deep"
+  ],
+  "author": "deepak",
+  "license": "ISC"
+}
