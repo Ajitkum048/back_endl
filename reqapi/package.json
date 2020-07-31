@@ -1,0 +1,21 @@
+{
+  "name": "reqapi",
+  "version": "1.0.0",
+  "description": "reqapi",
+  "main": "req.js",
+  "scripts": {
+    "test": "qwe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "back_end"
+  },
+  "keywords": [
+    "deep"
+  ],
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
